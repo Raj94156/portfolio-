@@ -1,0 +1,48 @@
+body{
+    background-color: red;
+    background-image: url(https://wallpaperaccess.com/full/2078954.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 1500px;
+}
+table{
+   
+   margin: auto;
+}
+td{
+    
+    width: 100px;
+    height: 100px;
+    background-color:purple;
+}
+td:hover
+{
+    background-color: aquamarine;
+}
+.middlerow{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+
+.secrow{
+    border-top: 1px solid gray;
+
+    border-bottom: 1px solid gray;
+}
+h1{
+    box-sizing: content-box;
+    background-color: rgb(136, 56, 56);
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-family: cursive;
+    font-size: xx-large;
+ color: whitesmoke;
+
+}
+footer{
+    text-align: center;
+  
+     padding-top: 300px;
+     font-size: larger;
+}
